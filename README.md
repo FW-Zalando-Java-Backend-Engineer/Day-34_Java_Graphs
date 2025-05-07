@@ -212,7 +212,7 @@ Write **JUnit 5 tests** for:
 🔗 [Click to Watch](_Will be added later_)
 
 🧪 **Demo Code Exercise**:
-[`FriendNet Graph Simulator`](_Will be added later_)
+[`FriendNet Graph Simulator`](https://github.com/FW-Zalando-Java-Backend-Engineer/FriendNet)
 
 ---
 
