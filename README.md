@@ -242,11 +242,8 @@ Write **JUnit 5 tests** for:
 
 * [Graphs in Java – Medium](https://medium.com/@aqibbutt3078/graphs-in-java-94691259710f)
 * [Beginner’s Guide to Graph Theory – Medium](https://medium.com/@agarwaldevesh.08/introduction-to-graph-theory-for-beginners-ae33e754dc5e)
-
-### 🔹 Docs & Tools
-
-* [JGraphT Graph Library](https://jgrapht.org/)
-* [Java Collections API (Oracle)](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html)
+* [Introduction To Graphs](https://rehansattar.dev/data-structures-101-introduction-to-graphs)
+* [Graph Traversal - BFS & DFS](https://rehansattar.dev/data-structures-101-graph-traversal-bfs-and-dfs)
 
 
 
