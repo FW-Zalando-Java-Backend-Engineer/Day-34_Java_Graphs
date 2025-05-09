@@ -208,7 +208,7 @@ Write **JUnit 5 tests** for:
 
 ## 📼 Zoom Recording
 
-🎥 **Lecture Recording for Day-37**:
+🎥 **Lecture Recording for Day-35**:
 🔗 [Click to Watch](_Will be added later_)
 
 🧪 **Demo Code Exercise**:
