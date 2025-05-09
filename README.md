@@ -209,7 +209,7 @@ Write **JUnit 5 tests** for:
 ## 📼 Zoom Recording
 
 🎥 **Lecture Recording for Day-35**:
-🔗 [Click to Watch](_Will be added later_)
+🔗 [Click to Watch](https://us06web.zoom.us/rec/share/KFWug69WY1z3ZA2p3NimR14EO0lOyxXSwPXxLfowQMrxCXKYALbLCRcJnFtrNZ1p.uKrkEMk6Z2B3It7F?startTime=1746603138000)
 
 🧪 **Demo Code Exercise**:
 [`FriendNet Graph Simulator`](https://github.com/FW-Zalando-Java-Backend-Engineer/FriendNet)
