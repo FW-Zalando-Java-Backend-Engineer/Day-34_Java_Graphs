@@ -1,6 +1,6 @@
-# 🕸️ Day-34: Java Data Structures – Graphs
+# 🕸️ Day-35: Java Data Structures – Graphs
 
-Welcome to **Day-37** of our Backend Engineering journey! Today we're exploring **Graphs** — a powerful, flexible data structure that models real-world connections like social networks, web links, and transport maps.
+Welcome to **Day-35** of our Backend Engineering journey! Today we're exploring **Graphs** — a powerful, flexible data structure that models real-world connections like social networks, web links, and transport maps.
 
 This lesson includes **real-world applications**, a **step-by-step Maven project**, interactive **visuals**, and **JUnit 5 tests** to reinforce your understanding.
 
